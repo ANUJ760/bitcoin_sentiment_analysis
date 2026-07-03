@@ -163,16 +163,4 @@ This project is released under the MIT License. See [LICENSE](LICENSE).
 - Hyperliquid trader data and the Bitcoin Fear & Greed Index dataset used in the analysis.
 - The notebook and helper modules in `src/` were structured to support reproducible data-science review.
 
-## Submission Checklist
 
-- [x] Dataset loading
-- [x] Cleaning
-- [x] Feature engineering
-- [x] EDA
-- [x] Visualizations
-- [x] Statistical testing
-- [x] Report
-- [x] Notebook execution from top to bottom
-- [x] Repository structure
-
-See [SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md) for the final sign-off checklist.
